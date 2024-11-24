@@ -2,6 +2,10 @@
 
 Welcome to **GRILLI**, a stunning and modern restaurant website designed to showcase an elegant user interface. This project highlights a visually appealing front-end experience, presenting essential restaurant details such as the menu, customer reviews, and operating hours.
 
+<img src="website-image.png">
+
+
+
 ## Features
 
 - **Home Page**: A welcoming landing page with a clean layout and engaging visuals to captivate visitors.
